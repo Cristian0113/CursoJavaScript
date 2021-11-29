@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Cristian0113/CursoJavaScript/issues"
   },
-  "homepage": "https://github.com/Cristian0113/CursoJavaScript#readme"
+  "homepage": "https://github.com/Cristian0113/CursoJavaScript#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "express": "^4.17.1"
+  }
 }

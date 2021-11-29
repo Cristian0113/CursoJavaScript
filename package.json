@@ -1,0 +1,19 @@
+{
+  "name": "cursojavascript",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r Vamos a ser commit de este archivo\r cambios \r =======\r # CursoJavaScript\r Este es el repositorio para el curo de JS de arus \r >>>>>>> b9ed52fd4f62be1eed67b99dda0de78a01392e49",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian0113/CursoJavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristian0113/CursoJavaScript/issues"
+  },
+  "homepage": "https://github.com/Cristian0113/CursoJavaScript#readme"
+}
